@@ -8,6 +8,7 @@ Every single Quantum Computing framework/tool crammed into one Docker environmen
 * Google Cirq
 * Xanadu Strawberry Fields
 * D-Wave Ocean
+  * `minorminer` - heuristic graph embedding utility
 * CQCL Pytket
   * All interfaces included as well: `pytket-qiskit`, `pytket-honeywell`, etc.
 
