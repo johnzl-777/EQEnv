@@ -10,7 +10,9 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     cirq \
     strawberryfields \
     minorminer dwave-ocean-sdk \
-    pytket pytket-qiskit pytket-cirq pytket-pyquil pytket-projectq pytket-aqt pytket-honeywell pytket-pyzx
+    pytket pytket-qiskit pytket-cirq pytket-pyquil pytket-projectq pytket-aqt pytket-honeywell pytket-pyzx \ 
+    projectq \
+    pyzx
 
 # install curl bzip2 FIRST
 # WIP Rigetti
