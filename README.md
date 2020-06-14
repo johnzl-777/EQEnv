@@ -26,6 +26,14 @@ Then just run:
 docker-compose up
 ```
 
+## Development
+
+To force Docker to re-build the image from scratch instead of ignoring the Dockerfile:
+
+```
+docker-compose up --build
+```
+
 ## Why did you build this?
 
 I like to have all of my Quantum Computing tools in one place. Previously, I had a Dockerfile for each tool but I find myself "jumping" across tools or using them in conjunction more frequently than I anticipated.
