@@ -1,3 +1,7 @@
+# DEVELOPMENT HAS MOVED!
+
+EQEnv is now [Hephaestus-R](https://github.com/QC-at-Davis/Hephaestus-R)! It's still being developed by me but now on behalf of Quantum Computing at Davis (QCaD) 
+
 # EQEnv - the Everything Quantum Environment
 
 Every single Quantum Computing framework/tool crammed into one Docker environment.
